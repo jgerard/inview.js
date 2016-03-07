@@ -17,7 +17,7 @@ Include this plugin after jQuery is loaded.
 ```html
     <script src="jquery.min.js"></script>
     ...
-    !!<script src="jquery.inview.min.js"></script>!!
+    __<script src="jquery.inview.min.js"></script>__
 ```
 
 Usage
